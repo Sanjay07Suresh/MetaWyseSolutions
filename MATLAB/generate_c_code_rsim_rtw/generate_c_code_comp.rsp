@@ -1,0 +1,8 @@
+-I"C:/MATLAB/MATLAB PROJECTS"
+-I"C:/MATLAB/MATLAB PROJECTS/generate_c_code_rsim_rtw"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/rapid"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/rsim"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
